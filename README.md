@@ -4,8 +4,8 @@ Mentorship Goals Needed To Finish
 
 ## CSS
 
-- [ ] Flex Box
-- [ ] CSS Grid
+- [x ] Flex Box
+- [ x] CSS Grid
 - [ ] Transform
 - [ ] Animation
 - [ ] Media Queries
@@ -76,41 +76,3 @@ Mentorship Goals Needed To Finish
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
-## Peoples Checklist
-
-### Confirmed Joining
-
-- [ ] Mohamed Amr Barakat
-
-### Still Not Confirmed Joining
-
-- [ ] Ayman Taha
-- [ ] Naglaa Saber
-- [ ] Mahmoud Ali
-- [ ] Mohamed Ahmed Shawky
-- [ ] Mohamed Elsayed
-- [ ] Anas Qasem
-- [ ] Remon Lotfy
-- [ ] Abderrahman Mounasser
-- [ ] Gamal Omar
-- [ ] Shaimaa Ramadan
-- [ ] Salwa Sayed Younes
-- [ ] Ahmed Rabie
-- [ ] Andrew Raafat
-
-- [ ] Mohamed Mustafa
-- [ ] Sami Albakour
-- [ ] Ahmed Ezz
-- [ ] Lobna Nasser
-- [ ] Ayman Ali
-- [ ] Hassan Ahmed
-- [ ] Elsayed Gamal
-- [ ] Noura Nabil
-- [ ] Heba Gamal
-- [ ] Nahla Khaireldeen
-- [ ] Radwa Omar
-- [ ] Mohamed Salah
-- [ ] Nour Atef
-- [ ] Ahmed Darwish
-- [ ] Hagar Khalid
-- [ ] Amr Hendawy
