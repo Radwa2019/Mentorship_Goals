@@ -41,7 +41,7 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ ] Template 1 [HTML + CSS]
+- [x] Template 1 [HTML + CSS]
 - [ ] Template 2 [HTML + CSS]
 - [ ] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
