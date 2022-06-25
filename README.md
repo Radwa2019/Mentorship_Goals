@@ -14,8 +14,8 @@ Mentorship Goals Needed To Finish
 
 ## JavaScript
 
-- [ ] DOM
-- [ ] Higher Order Functions
+- [x] DOM
+- [x] Higher Order Functions
 - [ ] Destructuring
 - [ ] Scope
 - [ ] Local Storage
@@ -34,7 +34,7 @@ Mentorship Goals Needed To Finish
 
 ## Problem Solving And Challenges
 
-- [ ] Codewars 300 Very Easy And Easy Problems
+- [x] Codewars 300 Very Easy And Easy Problems (50 problems)
 - [ ] Codewars 50 Medium Problems
 - [ ] Leetcode 10 Easy Problems
 - [ ] Front-End Mentors 15 Challenges
